@@ -1,0 +1,15 @@
+.omg {
+  height: 50px;
+  float: left;
+}
+.smh {
+  margin-left: 65px;
+  line-height: 50px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+.dotted {
+  border-bottom: 2px solid;
+}
